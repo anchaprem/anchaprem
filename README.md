@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ancha Premchand</h1>
 <h3 align="center">A passionate Full stack developer|Python enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anchaprem&label=Profile%20views&color=0e75b6&style=flat" alt="anchaprem" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anchaprem" alt="anchaprem" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/anchaprem_" target="blank"><img src="https://img.shields.io/twitter/follow/anchaprem_?logo=twitter&style=for-the-badge" alt="anchaprem_" /></a> </p>
-
 - 🌱 I’m currently learning **React,Tailwind and etc...**
 
 - 📫 How to reach me **anchapremchand@gmail.com**
