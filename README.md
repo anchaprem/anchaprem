@@ -74,9 +74,3 @@ Embark on a tech journey with me! Here's the arsenal I wield:
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="40" height="40"/> </a> 
 <img src="https://camo.githubusercontent.com/18cfdc02648d5adceb0e43e3ebb80742421d56122e2a76a1cc3f7ab7eafd6780/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f6173736574732f4769744875622d4d61726b2d6561323937316365653739392e706e67" height="30" width="40"> 
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codenihar&show_icons=true&locale=en&layout=compact" alt="niihaaarrrr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codenihar&" alt="niihaaarrrr" /></p>
